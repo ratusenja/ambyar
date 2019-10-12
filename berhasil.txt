@@ -10,4 +10,11 @@ upload file baru
 3.git commit -m "add filebaru"
 4.git push -u
 
+menambah branch baru
+1.git branch (master is default branch)
+2.git branch -m newbranch
+2.git branch (cek kembali)
+3.git branch newbranch
+
+maka branch beralih pada newbranch
 
