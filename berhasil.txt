@@ -11,3 +11,9 @@ upload file baru
 4.git push -u
 
 
+branch baru:
+1.git branch newbranch
+2.git status (cek branch)
+3.git checkout newbranch
+
+maka branch beralih dari default master ke newbranch
