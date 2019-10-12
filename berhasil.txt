@@ -1,8 +1,10 @@
+GITHUB tutorial dari kelompok 5
+
 tutorial update data
 1.nano element.txt
 2.git status (modified)
 3.git add elemet.txt
-4.git push
+4.git push remote(origin/etc)
 
 upload file baru
 1.check status (git status)
@@ -15,5 +17,6 @@ branch baru:
 1.git branch newbranch
 2.git status (cek branch)
 3.git checkout newbranch
-
 maka branch beralih dari default master ke newbranch
+
+suwon
