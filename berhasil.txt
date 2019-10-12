@@ -1,0 +1,5 @@
+tutorial update
+1.nano element.txt
+2.git status (modified)
+3.git add elemet.txt
+4.git push
