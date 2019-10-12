@@ -1,5 +1,13 @@
-tutorial update
+tutorial update data
 1.nano element.txt
 2.git status (modified)
 3.git add elemet.txt
 4.git push
+
+upload file baru
+1.check status (git status)
+2.git add filebaru
+3.git commit -m "add filebaru"
+4.git push -u
+
+
