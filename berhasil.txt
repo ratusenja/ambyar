@@ -1,5 +1,6 @@
 GITHUB tutorial dari kelompok 5
 
+
 tutorial update data
 1.nano element.txt
 2.git status (modified)
@@ -26,4 +27,5 @@ branch baru:
 3.git checkout newbranch
 maka branch beralih dari default master ke newbranch
 
-suwon
+suwon atau terimakasih
+
